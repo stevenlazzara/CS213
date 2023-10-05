@@ -9,7 +9,7 @@ import javafx.fxml.FXMLLoader;
 /**
  * Initializes the first window
  * 
- * @author Jonathan Li, Jihun Joo, Bufan Jiang
+ * @author Steven Lazzara
  *
  */
 public class Main extends Application {
