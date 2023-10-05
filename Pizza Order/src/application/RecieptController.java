@@ -14,7 +14,7 @@ import javafx.stage.Stage;
  * Second window controller, displays the pizzas in the order list and has the
  * ability to clear it
  * 
- * @author Jonathan Li, Jihun Joo, Bufan Jiang
+ * @author Steven Lazzara
  *
  */
 public class RecieptController {
