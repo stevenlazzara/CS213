@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Deluxe Pizza Subclass
  * 
- * @author Jonathan Li, Jihun Joo, Bufan Jiang
+ * @author Steven Lazzara
  *
  */
 public class Deluxe extends Pizza {
