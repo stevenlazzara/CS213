@@ -21,7 +21,7 @@ import javafx.event.Event;
 /**
  * The first and main menu of pizza ordering
  * 
- * @author Jonathan Li, Jihun Joo, Bufan Jiang
+ * @author Steven Lazzara
  *
  */
 public class StoreController implements Initializable {
