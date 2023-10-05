@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Build Your Own Pizza Subclass
  * 
- * @author Jonathan Li, Jihun Joo, Bufan Jiang
+ * @author Steven Lazzara
  */
 public class BuildYourOwn extends Pizza {
 
