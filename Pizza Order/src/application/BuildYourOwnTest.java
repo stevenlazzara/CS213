@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import org.junit.Test;
 
 /**
- * @author Jihun Joo, Jonathan Li, Bufan Jiang
+ * @author Steven Lazzara
  *
  */
 public class BuildYourOwnTest {
