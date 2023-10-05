@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Hawaiian Pizza Subclass
  * 
- * @author Jonathan Li, Jihun Joo, Bufan Jiang
+ * @author Steven Lazzara
  *
  */
 public class Hawaiian extends Pizza {
