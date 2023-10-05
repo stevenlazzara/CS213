@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Pizza superclass
  * 
- * @author Jihun Joo, Jonathan Li, Bufan Jiang
+ * @author Steven Lazzara
  */
 public abstract class Pizza {
 	protected String style;
